@@ -58,6 +58,7 @@ easycourse(X):-
 course(bk301,dept(havefun)).
 ```
 # Output:
+![Screenshot 2025-03-19 112016](https://github.com/user-attachments/assets/ee19f131-be1c-4c1a-933a-a71d74652ea5)
 
 
 
